@@ -1,0 +1,5 @@
+export * as SelectRouteIcon from './select-route.svg'
+export * as NewManualRouteIcon from './new-route.svg'
+export * as NewInterestPointIcon from './new-interest-point.svg'
+export * as AutomaticRouteIcon from './automatic-route.svg'
+export * as TrashIcon from './trash.svg'
